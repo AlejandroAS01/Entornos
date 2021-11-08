@@ -10,6 +10,9 @@
 
    <h1>Header</h1>
 
+<p>Área de un triángulo cuya base es 200 y altura 546.</p>
+<p>Área=(base * altura)/2=(200*546)/2=54.600</p>
+
    <img src="imagenes/increibles.png" width="100px"/>
 
    <ul>
