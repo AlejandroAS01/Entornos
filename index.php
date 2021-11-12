@@ -7,18 +7,16 @@
     <link rel="stylesheet" href="css/layout.css">
   </head>
   <body>
-
-   <h1>Header</h1>
-
    <img src="imagenes/increibles.png" width="100px"/>
-
+   <h1>Header</h1>
+<nav>
    <ul>
      <li><a href="#">Home</a></li>
      <li><a href="#">Nuestro equipo</a></li>
      <li><a href="#">Projectos</a></li>
      <li><a href="#">Contacto</a></li>
    </ul>
-
+</nav>
   <h2>Cabecera de artículo</h2>
 
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Donec a diam
